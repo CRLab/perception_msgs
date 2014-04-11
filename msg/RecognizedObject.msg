@@ -1,0 +1,6 @@
+Header header
+sensor_msgs/PointCloud2 recognizedObjectPointCloud
+string model_name
+string object_name
+int32 recognizedObjectID
+geometry_msgs/Pose pose

@@ -45,6 +45,8 @@ add_message_files(
    SegmentedObject.msg
    SegmentedObjectList.msg
    ObjectCenterProperty.msg
+   RecognizedObject.msg
+   RecognizedObjectList.msg
  )
 
 ## Generate services in the 'srv' folder
