@@ -1,6 +1,6 @@
 Header header
-sensor_msgs/PointCloud2 recognizedObjectPointCloud
-string model_name
-string object_name
-int32 recognizedObjectID
+shape_msgs/Mesh mesh
+string name
+string class
+int32 id
 geometry_msgs/Pose pose
